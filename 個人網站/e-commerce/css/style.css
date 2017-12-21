@@ -1,0 +1,43 @@
+.border1{
+	border:1px black solid
+}
+
+.border2{
+	border:1px  gray solid;
+	border-radius:10px;
+}
+
+
+
+.div_in1{
+    position: relative;
+    padding-left: 16px;
+    height: 2.5em;
+    color: #444;
+    font: 13px/1.8 Arial;
+    letter-spacing: 1px;
+	background-color:#F8F9F9;
+}
+
+.div_in2{
+    position: relative;
+    padding-left: 16px;
+    height: 2.5em;
+    color: #444;
+    font: 13px/1.8 Arial;
+    letter-spacing: 1px;
+	background-color:#FCF3CF;
+}
+
+.div_m1{
+	margin:10px 0px 10px 0px;
+}
+.div_m2{
+	margin:5px 0px 5px 0px;
+}
+img {
+   display: block;
+   width: auto;
+   margin: auto;
+}
+
